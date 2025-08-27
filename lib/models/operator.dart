@@ -19,8 +19,8 @@ class MobileOperator {
     MobileOperator(
       name: 'Yas',
       ussdFormat: '#321*{code}#',
-      logoPath: 'assets/images/yas_logo.png',
-      color: '#FF6B6B',
+      logoPath: 'assets/images/telma_logo.png',
+      color: '#00FF00',
     ),
     MobileOperator(
       name: 'Orange',
