@@ -200,4 +200,4 @@ If this project helped you, please consider giving it a ⭐ on GitHub!
 
 ---
 
-**Made with ❤️ in Madagascar for the Madagascar mobile community**
+**Made with ❤️ in Madagascar for the Madagascar mobile community.**
